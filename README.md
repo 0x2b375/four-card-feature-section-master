@@ -79,6 +79,6 @@ From this project I honed my html and css skills,
 
 ## Acknowledgments
 
-- I definitely couldn't do this alone, luckily I found Kevin Powell's youtube video about this problem and It was really easy to understand. If someone is having trouble with this problem highly recommend checking out his [video](https://www.youtube.com/watch?v=JFbxl_VmIx0) 
+I definitely couldn't do this alone, luckily I found Kevin Powell's youtube video about this problem and It was really easy to understand. If someone is having trouble with this problem highly recommend checking out his [video](https://www.youtube.com/watch?v=JFbxl_VmIx0) 
 
 
